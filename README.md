@@ -18,7 +18,7 @@ Each subrepo corresponding to each work
 - Journal: International Journal of Geographical Information Science (IJGIS)
 - Paper: https://doi.org/10.1080/13658816.2023.2280642
 - Codes and data also avaiable at: https://doi.org/10.6084/m9.figshare.23708532.v1
-## work 4: Activity and travel schudling 
+## work 4: Activity and travel scheduling 
 - Activity and travel schudling at individual level, propose systematic pruning method for scale down network size
 - achieve flexible PV+PT trip chaining at individual level with 100X speedup search time
 - C++, Python, MATLAB, SPSS
