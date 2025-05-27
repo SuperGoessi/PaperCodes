@@ -1,7 +1,7 @@
 # Paper Codes
 codes developed in papers during phd
 Each subrepo corresponding to each work
-## Work 1: Flexible PV+PT trip chaining
+## Work 1: Flexible PV+PT Trip Chaining
 - Achieve flexible PV+PT trip chaining at individual level with 100X speedup search time
 - C++, Python
 - Journal: Communications in Transportation Research
@@ -18,14 +18,14 @@ Each subrepo corresponding to each work
 - Journal: International Journal of Geographical Information Science (IJGIS)
 - Paper: https://doi.org/10.1080/13658816.2023.2280642
 - Codes and data also avaiable at: https://doi.org/10.6084/m9.figshare.23708532.v1
-## Work 4: Activity and travel scheduling 
+## Work 4: Activity and Travel Scheduling 
 - Activity and travel schudling at individual level, propose systematic pruning method for scale down network size
 - achieve flexible PV+PT trip chaining at individual level with 100X speedup search time
 - C++, Python, MATLAB, SPSS
 - Journal: under review
 - Paper: avaiable after published
 - Codes and data also avaiable at: avaiable after published
-## Work 5: Logistics Network design
+## Work 5: Logistics Network Design
 - Optimization model for mobility hubs, considering population space-time accessibility and hub costs
 - C++, Python, MATLAB, SPSS
 - Journal: under review
