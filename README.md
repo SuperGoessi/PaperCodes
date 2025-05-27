@@ -1,6 +1,6 @@
 # Paper Codes
-codes developed in papers during phd
-Each subrepo corresponding to each work
+ Codes for papers during phd  
+ Each subrepo corresponding to each work  
 ## Work 1: Flexible PV+PT Trip Chaining
 - Achieve flexible PV+PT trip chaining at individual level with 100X speedup search time
 - C++, Python
